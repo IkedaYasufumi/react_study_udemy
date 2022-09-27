@@ -1,5 +1,12 @@
 import "./styles.css";
 
+/**
+ *
+ */
+var val1 = "test";
+
+console.log(val1);
+
 document.getElementById("app").innerHTML = `
 <h1>Hello Vanilla!</h1>
 <div>
